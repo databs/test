@@ -1,0 +1,10 @@
+.containermaps{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.maps{
+    width: 40%;
+    height: auto;
+    z-index: -1;
+}

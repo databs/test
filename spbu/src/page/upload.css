@@ -1,0 +1,22 @@
+.laman{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+.card4{
+  display: block;
+  border: 2px solid black;
+  width: 80%;
+  height: auto;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.inputitem{
+  padding: 10px;
+}
+.input{
+  display: flex;
+  flex-wrap: wrap;
+}

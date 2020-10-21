@@ -1,0 +1,21 @@
+.laporan{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+.minichart{
+    width: 15,5%;
+    height: 14%;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    margin: 20px;
+    margin-bottom: -3px;
+    z-index: -1;
+}
+.data-tambah{
+    padding: 20px;
+}

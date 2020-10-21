@@ -1,0 +1,69 @@
+.laman{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+.card2{
+  display: block;
+  border: 2px solid black;
+  width: 50%;
+  height: auto;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.input{
+  display: flex;
+  flex-wrap: wrap;
+}
+.inputitem{
+  padding: 10px;
+}
+.tempatinput{
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card1 {
+    width: 30%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 2px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  .s {
+    border: none;
+    outline: 0;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .a{
+    margin-right: 20px;
+    text-decoration: none !important;
+    color: black;
+  }
+  
+  .k {
+    list-style: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  .s:hover, a:hover {
+    opacity: 0.7;
+  }
